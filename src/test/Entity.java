@@ -1,12 +1,12 @@
 package test;
 
-public class Main {
-	public static void main(String[] args) {
+public class Entity {
+	public void method1() {
 		System.out.println("This is hung_branch");
 		System.out.println("This is hung_branch");
 	}
 	
-	public void method() {
+	public void method2() {
 		System.out.println("This is hung_branch");
 		System.out.println("This is hung_branch");
 	}
